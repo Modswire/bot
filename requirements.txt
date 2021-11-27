@@ -1,0 +1,5 @@
+git+https://github.com/iDevision/enhanced-discord.py
+jishaku>=1.18.2
+asyncpraw
+aiosqlite
+aiologger
