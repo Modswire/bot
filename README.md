@@ -1,2 +1,2 @@
 # Modswire/bot
-The bot for Modswire server, based on [https://github.com/Modswire/FeMCBot](Modswire/FeMCBot).
+The bot for Modswire server, based on [Modswire/FeMCBot](https://github.com/Modswire/FeMCBot).
